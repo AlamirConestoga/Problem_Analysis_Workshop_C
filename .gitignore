@@ -1,0 +1,12 @@
+# Local Python environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Cleaned data
+AV_Incidents_Study.csv
